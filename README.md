@@ -1,13 +1,5 @@
 <h1 align="center">itabyss.vim</h1>
 
-<p align="center"
-
-![img](scrots/itabyss.png)
-
-</p>
-
-***
-
 <p align="center" 
 
 ![img](scrots/display.png) 
