@@ -16,8 +16,8 @@
 use ("nubilfi/itabyss.nvim")
 ```
 
-Then set your `colorscheme` to `colorscheme itabyss`.
+Then in your vim or neovim config, set the `colorscheme` to `colorscheme itabyss`.
 
-You might also want to check [`itabyss.lua`](https://github.com/nubilfi/itabyss.vim/autoload/lualine/themes) for your lualine themes.
+You might also want to check [`itabyss.lua`](https://github.com/nubilfi/itabyss.vim/tree/main/autoload/lualine/themes) for your lualine themes.
 
 Visit the original colorscheme repo: [mountaineer](https://github.com/TheNiteCoder/mountaineer.vim)
